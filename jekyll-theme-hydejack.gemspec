@@ -1,6 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
+  gem 'wdm', '>= 0.1.0'
   spec.name          = "jekyll-theme-hydejack"
   spec.version       = "9.2.1"
   spec.authors       = ["Florian Klampfer"]
